@@ -21,7 +21,7 @@ button:active {
   height: 40px;
   border-radius: 100%;
   text-align: center;
-  box-shadow: 0.2em 0.2em rgb(76, 110, 108);
+ box-shadow: 0.2em 0.2em rgb(76, 110, 108);
   -webkit-box-shadow: 0.2em 0.2em rgb(76, 110, 108);
   -moz-box-shadow: 0.2em 0.2em rgb(76, 110, 108);
 }
